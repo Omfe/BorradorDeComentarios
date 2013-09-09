@@ -7,6 +7,6 @@ It does not overwrite the original file.
 
 **Developed by**: Omar Gudiño  
 **School**: CETYS Universidad Tijuana  
-**Course**: Operating Systems
+**Course**: Operating Systems  
 **Semester**: 5th  
 **Instructor**: Arturo Sevilla
